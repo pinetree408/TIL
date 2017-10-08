@@ -1,3 +1,5 @@
+# How to set style to paint object in java code
+
 ```
 Paint paint = new Paint();
 paint.setColor(Color.RED);

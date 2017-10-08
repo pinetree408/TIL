@@ -1,10 +1,14 @@
-make padding between text and textview's layout
+# How to set style at text in textview
+
+## make padding between text and textview's layout
+
 ```
 android:paddingRight="10dp"
 android:paddingLeft="10dp"
 ```
 
-make underline at text in textview
+## make underline at text in textview
+
 ```
 TextView tv = (TextView) view.findViewById(R.id.tv);
 SpannableString content = new SpannableString("Content");
